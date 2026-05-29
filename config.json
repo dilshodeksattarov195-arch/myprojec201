@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpync",
+        "uuid": 702294,
+        "checksum": "24j6oh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
